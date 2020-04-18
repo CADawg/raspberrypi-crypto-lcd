@@ -1,6 +1,8 @@
 # Raspberry Pi - Crypto Ticker LCD
 Crypto prices and 24 hour price changes from Coingecko, displayed over I<sup>2</sup>C
 
+![Crypto LCD](https://imgur.com/Mhciop2.png)
+
 ### Setup:
 
 For GPIO Pin Layouts: See https://pinout.xyz/
